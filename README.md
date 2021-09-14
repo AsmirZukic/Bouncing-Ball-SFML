@@ -1,2 +1,3 @@
-# SFML
-Just some simple projects done in c++ and SFML
+# Bouncing Ball
+
+A simple project done in C++ with the SFML library
